@@ -7,8 +7,70 @@
             "judul_web": "Text Dari Github",
             "image_splash": "https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png",
             "show_banner": true,
-            "one_signal_id":"7c3f45fa-95f8-4628-85eb-fd2282e1b1d8",
-            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo libero venenatis interdum semper. Sed interdum eros sit amet diam gravida pulvinar. Ut ac congue quam. Pellentesque a felis et ligula interdum ornare et eu enim. In ultricies, enim sed lacinia dapibus, orci tellus accumsan mi, nec condimentum erat ipsum eget mi. Suspendisse fringilla sagittis eros, a eleifend velit suscipit eget. Duis venenatis iaculis ligula, non lacinia ligula rhoncus non."
+            "one_signal_id": "7c3f45fa-95f8-4628-85eb-fd2282e1b1d8",
+            "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo libero venenatis interdum semper. Sed interdum eros sit amet diam gravida pulvinar. Ut ac congue quam. Pellentesque a felis et ligula interdum ornare et eu enim. In ultricies, enim sed lacinia dapibus, orci tellus accumsan mi, nec condimentum erat ipsum eget mi. Suspendisse fringilla sagittis eros, a eleifend velit suscipit eget. Duis venenatis iaculis ligula, non lacinia ligula rhoncus non."
+        }
+    ],
+    "menu": [
+        {
+            "caption": "Home",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitsjSUXfN_Jb8RGNH58RwqODmOiJlxYXekKpGdmEklxRH6pfIN5UORhj1HmYaD5Z4XSbDkAiVMtPpf37LrkAo7bhqdMwmggp_H67uR4CMQwZFDLbxFNPboL05bTh3r7KsCxX-3yz5McLSDdeD0x5itQVJ1rql1Idy6Iy1nMw7hPFNAP7kFIKewrry/s512/home-button.png",
+            "link": "https://www.lokercianjur.id/"
+        },
+        {
+            "caption": "Pasang Info Loker",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHlDbGndRPT-003fS5lJ180dg__IS1IQOVE2tLnSlJKUxI41sfGwa_oT2EkavytAyNO9TJVHceEaFMX-k_sHQIF4y60Pw0eIWf6x2eee-EWcjUlF--HHjz1L7NmYIT041vrVGQtr8ng0KdlJ7AzMjSQrSMSOZbDKm3VBh2PEEKruEedv83Ar0IYT55/s512/marketing.png",
+            "link": "https://www.lokercianjur.id/pasang-info-loker/"
+        },
+        {
+            "caption": "Area Cianjur",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/job-categories/cianjur/"
+        },
+        {
+            "caption": "Area Sukabumi",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokersukabumi.com/search/label/Area%20Sukabumi"
+        },
+        {
+            "caption": "Via Email",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/job-categories/via-email/"
+        },
+        {
+            "caption": "Via Online",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/"
+        },
+        {
+            "caption": "SMP",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/"
+        },
+        {
+            "caption": "SMA/SMK",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/"
+        },
+        {
+            "caption": "D3/S1",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://www.lokercianjur.id/"
+        },
+        {
+            "caption": "Grup WA",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://chat.whatsapp.com/EcE2ub19CzL7aRCGRud8Tw"
+        },
+        {
+            "caption": "Grup Telegram",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://t.me/lokercianjurterbaru"
+        },
+        {
+            "caption": "Channel Telegram",
+            "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
+            "link": "https://t.me/lokercianjurterupdate"
         }
     ]
 }
