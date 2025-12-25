@@ -6,7 +6,8 @@
             "bg_color": "#FF4D4D",
             "judul_web": "Text Dari Github",
             "image_splash": "https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png",
-            "show_banner": "true"
+            "show_banner": true,
+            "one_signal_id":"7c3f45fa-95f8-4628-85eb-fd2282e1b1d8"
         }
     ]
 }
