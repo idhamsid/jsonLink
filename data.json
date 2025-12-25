@@ -7,7 +7,8 @@
             "judul_web": "Text Dari Github",
             "image_splash": "https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png",
             "show_banner": true,
-            "one_signal_id":"7c3f45fa-95f8-4628-85eb-fd2282e1b1d8"
+            "one_signal_id":"7c3f45fa-95f8-4628-85eb-fd2282e1b1d8",
+            "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo libero venenatis interdum semper. Sed interdum eros sit amet diam gravida pulvinar. Ut ac congue quam. Pellentesque a felis et ligula interdum ornare et eu enim. In ultricies, enim sed lacinia dapibus, orci tellus accumsan mi, nec condimentum erat ipsum eget mi. Suspendisse fringilla sagittis eros, a eleifend velit suscipit eget. Duis venenatis iaculis ligula, non lacinia ligula rhoncus non."
         }
     ]
 }
