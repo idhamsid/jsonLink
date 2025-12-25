@@ -7,7 +7,8 @@
       "banner":"ca-app-pub-3940256099942544/6300978111",
       "bg_color":"#FF4D4D",
       "judul_web":"Text Dari Github",
-      "image_splash":"https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png"
+      "image_splash":"https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png",
+       "show_banner":true
       
     }
   ]
