@@ -3,74 +3,77 @@
         {
             "intertitial": "ca-app-pub-3940256099942544/1033173712",
             "banner": "ca-app-pub-3940256099942544/6300978111",
-            "bg_color": "#FF4D4D",
-            "judul_web": "Text Dari Github",
-            "image_splash": "https://raw.githubusercontent.com/idhamsid/jsonLink/refs/heads/main/ic_launcher.png",
+            "bg_color": "#113585",
+            "judul_web": "Loker Sukabumi",
+            "image_splash": "https://raw.githubusercontent.com/clarinsalsa/logo/refs/heads/main/Putih.png",
             "show_banner": true,
             "one_signal_id": "7c3f45fa-95f8-4628-85eb-fd2282e1b1d8",
-            "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut commodo libero venenatis interdum semper. Sed interdum eros sit amet diam gravida pulvinar. Ut ac congue quam. Pellentesque a felis et ligula interdum ornare et eu enim. In ultricies, enim sed lacinia dapibus, orci tellus accumsan mi, nec condimentum erat ipsum eget mi. Suspendisse fringilla sagittis eros, a eleifend velit suscipit eget. Duis venenatis iaculis ligula, non lacinia ligula rhoncus non."
+            "about": "Lokersmi.co.id adalah website loker di Sukabumi yang menyajikan informasi lowongan kerja terbaru dan terpercaya untuk lulusan SD, SMP, SMA/SMK, hingga D3 dan S1 dari berbagai bidang pekerjaan.",
+            "adsblock_text":"Kami mendeteksi AdBlock atau DNS pemblokir iklan aktif di perangkat Anda. Mohon nonaktifkan agar aplikasi dapat berjalan normal.",
+           "adsblock_button":"Tutup Aplikasi"
+            
         }
     ],
     "menu": [
         {
             "caption": "Homes",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitsjSUXfN_Jb8RGNH58RwqODmOiJlxYXekKpGdmEklxRH6pfIN5UORhj1HmYaD5Z4XSbDkAiVMtPpf37LrkAo7bhqdMwmggp_H67uR4CMQwZFDLbxFNPboL05bTh3r7KsCxX-3yz5McLSDdeD0x5itQVJ1rql1Idy6Iy1nMw7hPFNAP7kFIKewrry/s512/home-button.png",
-            "link": "https://www.lokercianjur.id/"
+            "link": "https://lokersmi.co.id/"
         },
         {
-            "caption": "Pasang Info Lokers",
+            "caption": "Pasang Info Loker",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHlDbGndRPT-003fS5lJ180dg__IS1IQOVE2tLnSlJKUxI41sfGwa_oT2EkavytAyNO9TJVHceEaFMX-k_sHQIF4y60Pw0eIWf6x2eee-EWcjUlF--HHjz1L7NmYIT041vrVGQtr8ng0KdlJ7AzMjSQrSMSOZbDKm3VBh2PEEKruEedv83Ar0IYT55/s512/marketing.png",
-            "link": "https://www.lokercianjur.id/pasang-info-loker/"
+            "link": "https://lokersmi.co.id/pasang-info-loker/"
         },
         {
             "caption": "Area Cianjur",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/job-categories/cianjur/"
+            "link": "https://lokersmi.co.id/category/cianjur/"
         },
         {
             "caption": "Area Sukabumi",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokersukabumi.com/search/label/Area%20Sukabumi"
+            "link": "https://lokersmi.co.id/category/sukabumi/"
         },
         {
             "caption": "Via Email",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/job-categories/via-email/"
+            "link": "https://lokersmi.co.id/category/via-email/"
         },
         {
             "caption": "Via Online",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/"
+            "link": "https://lokersmi.co.id/category/via-online/"
         },
         {
             "caption": "SMP",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/"
+            "link": "https://lokersmi.co.id/loker/smp/"
         },
         {
             "caption": "SMA/SMK",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/"
+            "link": "https://lokersmi.co.id/loker/sma-smk/"
         },
         {
             "caption": "D3/S1",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://www.lokercianjur.id/"
+            "link": "https://lokersmi.co.id/category/d3-s1/"
         },
         {
             "caption": "Grup WA",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://chat.whatsapp.com/EcE2ub19CzL7aRCGRud8Tw"
+            "link": "https://whatsapp.com/channel/0029VaF7BAbIyPtPU8rVJL2W"
         },
         {
             "caption": "Grup Telegram",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://t.me/lokercianjurterbaru"
+            "link": "https://t.me/lokersukabumiku"
         },
         {
             "caption": "Channel Telegram",
             "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCV1_shNBC2xN2U1Cx3nryLZOvpAMruDwXBJCqPZySExcut4HHRsc2C5HjhmgCY5NikGgyDNQbTARO0SD_9JuidvbmL0gm5m1XncS_BniyRQdpmkb0tIosshXCYQ_wAUZIQajg153oAl6rXlKTaxmG7OCnpmUQKLtf08rOFSfKitkFXHhO6FLueDdr/s960/icon_menu.png",
-            "link": "https://t.me/lokercianjurterupdate"
+            "link": "https://t.me/lokersukabumi"
         }
     ]
 }
